@@ -1,0 +1,18 @@
+.cardContainer{
+    width: 300px;
+    height: 500px;
+    position: fixed;
+    right: 0.5 rem;
+    bottom: 0.5 rem;
+}
+
+.card-header{
+    background-color: blue;
+    color: white;
+    font-weight: 700px;
+}
+
+.card-body{
+    padding: 0.5rem;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg?q=10&h=200);
+}
